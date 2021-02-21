@@ -11,7 +11,7 @@ This API has total three parameters
 ```
 https://harrytom.ml/history-today/<catagory>/<month>_<date> 
 ``` 
-Example link : https://harrytom.ml/history-today/events/12_26 
+Example link : https://harrytom.ml/history-today/events/12_26.json 
 
 # You can use this anywhere with our api or by cloning or Downloading the files without attribution but attributing is always appreciated.
 
