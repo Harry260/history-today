@@ -9,7 +9,7 @@ This API has total three parameters
 `date` : 1 - 31  (Days in months vary)<br>
 
 ```
-https://harrytom.ml/history-today/<catagory>/<month>_<date> 
+https://harrytom.ml/history-today/<catagory>/<month>_<date>.json
 ``` 
 Example link : https://harrytom.ml/history-today/events/12_26.json 
 
